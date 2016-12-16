@@ -6,8 +6,12 @@ var x = function(e) {
     
 };
 
-var y = function(e){
+function GetElements(p1){
+    var list = document.getElementById(p1);
+    var reallist = list.getElementsByTagName("li");
     
 }
 b.addEventListener("click",x);
-thelist.addEventListener("mouseover",y);
+for (){
+    thelist.addEventListener("mouseover",y);
+}
