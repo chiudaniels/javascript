@@ -1,7 +1,0 @@
-var x = function(e) {
-    var app = document.createElement("append me");
-    intro.getElementById("thelist").appendChild(app);
-    
-    
-};
-b.addEventListener("click",x)
